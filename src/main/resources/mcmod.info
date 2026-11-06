@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "catleta",
+    "name": "Catleta",
+    "description": "Neon visual settings and HUD for Minecraft 1.12.2.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "authorList": ["Catleta"],
+    "credits": "",
+    "url": "",
+    "updateUrl": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
